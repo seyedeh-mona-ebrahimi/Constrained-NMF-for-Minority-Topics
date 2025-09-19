@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+guidedlda
+gensim
+top2vec
+corextopic
+numpy
+ssnmf
