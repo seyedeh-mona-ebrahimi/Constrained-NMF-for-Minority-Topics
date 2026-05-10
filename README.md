@@ -2,6 +2,11 @@
 
 *"Discover minority topics in text datasets through guided, constraint-based topic modeling."*
 
+## Please cite our paper if you are using the code: 
+```plaintext
+Seyedeh Fatemeh Ebrahimi and Jaakko Peltonen. 2025. Constrained Non-negative Matrix Factorization for Guided Topic Modeling of Minority Topics. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 35573–35598, Suzhou, China. Association for Computational Linguistics.
+```
+
 
 ## 🧭 Overview
 
